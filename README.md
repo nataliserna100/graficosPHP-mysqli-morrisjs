@@ -1,2 +1,3 @@
-# graficosPHP-mysqli-morrisjs
-Graficos de barras con PHP-Mysql -Js
+Configurar puerto 8080 en xampp http://localhost:8080/test
+
+servidor:$server= "localhost"; usuario:$usuario= "root"; clave:$clave= "admin"; nombre:base de datos:$bd= "jptdatabase";
